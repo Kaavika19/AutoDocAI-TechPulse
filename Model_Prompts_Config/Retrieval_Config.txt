@@ -1,0 +1,6 @@
+Retrieval method: TF-IDF vectorization + cosine similarity
+Chunk size: 115 words (approx.)
+Chunk overlap: 22 words (approx.)
+PDF text extraction: PyMuPDF (fitz)
+Interface: Streamlit
+LLM prompts: None; the current prototype does not call an LLM.
